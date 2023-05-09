@@ -1,14 +1,6 @@
 # Personal Portfolio ⚡️ 
 > [https://thilakshan1710.github.io/]
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://thilakshan1710.github.io/" target="_blank">
-  </a>
-  </kbd>
-</p>
-
 ## Sections 📚
 ✔️ About me\
 ✔️ Experience\

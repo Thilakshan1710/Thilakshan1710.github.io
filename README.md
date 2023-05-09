@@ -1,12 +1,12 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> [https://thilakshan1710.github.io/](https://thilakshan1710.github.io/)
+> [https://thilakshan1710.github.io/]
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://munenecalvin.github.io/Final-Portfolio-Website/" target="_blank">
+    <a href="https://thilakshan1710.github.io/" target="_blank">
   </a>
   </kbd>
 </p>

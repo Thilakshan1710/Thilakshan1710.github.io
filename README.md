@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://munenecalvin.github.io/Final-Portfolio-Website/
+> [https://thilakshan1710.github.io/](https://thilakshan1710.github.io/)
 
 ### Website Preview
 <p align="center"> 

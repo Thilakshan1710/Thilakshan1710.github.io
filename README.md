@@ -1,40 +1,65 @@
-# Studorlio
+# Personal Portfolio ⚡️ 
+> A clean, beautiful, responsive portfolio template for Software Developers!
 
-Studorlio is a template for your own personal site. You can have yours running on the cloud in exactly 10 seconds. But first, make sure you have a GitHub account. Ready, set, go!
+> https://munenecalvin.github.io/Final-Portfolio-Website/
 
-![Display Image](https://raw.githubusercontent.com/helfi92/studorlio/master/assets/img/studorlio.png)
+### Website Preview
+<p align="center"> 
+  <kbd>
+    <a href="https://munenecalvin.github.io/Final-Portfolio-Website/" target="_blank">
+  </a>
+  </kbd>
+</p>
 
-## Getting Started
-1. Fork the repository to make it yours.
-2. Rename the forked repository to `username.github.io`, where `username` is your GitHub username.
-3. That's it! Navigate to `username.github.io` to see your website :) 
+:star: Star me on GitHub — it helps!
 
-If this is your first time making a website and is having trouble getting started, that's ok. Head over to the [FAQ](#faq) section and let me try help you.
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
 
-## Demo
-[http://www.hassanali.me/studorlio/](http://www.hassanali.me/studorlio/)
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
+- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
+- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
+- Push the generated code to the `master` branch of this repository.
+- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
 
-## FAQ
-* [How do I fork this repository?](#how-do-i-fork-this-repository)
-* [How do I rename the forked repository?](#how-do-i-rename-the-forked-repository)
-* [How do I run the portfolio locally?](#how-do-i-run-the-portfolio-locally)
+## Sections 📚
+✔️ About me\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Education\
+✔️ Contact Info\
+✔️ Resume
 
-### How do I fork this repository?
-1. Make sure you're logged into GitHub with your account
-2. Click the Fork button on the upper right-hand side of this page
+To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
-### How do I rename the forked repository?
-1. Navigate to the main page of the repository. It should be `https://github.com/username/studorlio/`, where `username` is your GitHub username
-2. Click Settings
-3. Under the Repository name heading, type `username.github.io` then click Rename
+## Tools Used 🛠️
+* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
+* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
+* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
-### How do I run the portfolio locally?
-1. Right click (Windows) or double click (Mac) `index.html` and select "Open with"
-2. Pick your browser of choice
+## Contributing 💡
+#### Step 1
 
-## Bugs and Issues
-Have a bug or an issue with this template? [Open a new issue](https://github.com/helfi92/studorlio/issues)
+- **Option 1**
+    - 🍴 Fork this repo!
 
-## License
-Code released under the [MIT](https://github.com/helfi92/studorlio/blob/master/LICENSE) license
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
 
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
